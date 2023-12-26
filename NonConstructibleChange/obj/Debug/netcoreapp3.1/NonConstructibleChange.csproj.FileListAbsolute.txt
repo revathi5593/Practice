@@ -1,0 +1,14 @@
+C:\Practice\NonConstructibleChange\bin\Debug\netcoreapp3.1\NonConstructibleChange.exe
+C:\Practice\NonConstructibleChange\bin\Debug\netcoreapp3.1\NonConstructibleChange.deps.json
+C:\Practice\NonConstructibleChange\bin\Debug\netcoreapp3.1\NonConstructibleChange.runtimeconfig.json
+C:\Practice\NonConstructibleChange\bin\Debug\netcoreapp3.1\NonConstructibleChange.runtimeconfig.dev.json
+C:\Practice\NonConstructibleChange\bin\Debug\netcoreapp3.1\NonConstructibleChange.dll
+C:\Practice\NonConstructibleChange\bin\Debug\netcoreapp3.1\NonConstructibleChange.pdb
+C:\Practice\NonConstructibleChange\obj\Debug\netcoreapp3.1\NonConstructibleChange.csproj.AssemblyReference.cache
+C:\Practice\NonConstructibleChange\obj\Debug\netcoreapp3.1\NonConstructibleChange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\NonConstructibleChange\obj\Debug\netcoreapp3.1\NonConstructibleChange.AssemblyInfoInputs.cache
+C:\Practice\NonConstructibleChange\obj\Debug\netcoreapp3.1\NonConstructibleChange.AssemblyInfo.cs
+C:\Practice\NonConstructibleChange\obj\Debug\netcoreapp3.1\NonConstructibleChange.csproj.CoreCompileInputs.cache
+C:\Practice\NonConstructibleChange\obj\Debug\netcoreapp3.1\NonConstructibleChange.dll
+C:\Practice\NonConstructibleChange\obj\Debug\netcoreapp3.1\NonConstructibleChange.pdb
+C:\Practice\NonConstructibleChange\obj\Debug\netcoreapp3.1\NonConstructibleChange.genruntimeconfig.cache
