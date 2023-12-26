@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XaMwrSTJn2CNF4n8633qXWFjUbJ0r8N9dORKF9Pg32KPeHoAhsJuxs56YnehzEA9dKOCvcY0f1GD6naTrcfVnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Revathi.Selvam\\source\\repos\\SortedSquare\\SortedSquare.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Revathi.Selvam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
