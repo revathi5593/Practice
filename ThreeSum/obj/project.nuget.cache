@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NAKziH4PQxaSiUbMeD43MOoUaaXJfjfrVTPR9RGJFaozoEm60hW/nuLs0V+cqbMv70fD5vbfILiAZVDmBQbUow==",
+  "success": true,
+  "projectFilePath": "C:\\Practice\\ThreeSum\\ThreeSum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Revathi.Selvam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

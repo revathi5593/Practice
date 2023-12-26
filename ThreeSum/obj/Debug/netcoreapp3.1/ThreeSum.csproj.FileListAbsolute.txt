@@ -1,0 +1,14 @@
+C:\Practice\ThreeSum\bin\Debug\netcoreapp3.1\ThreeSum.exe
+C:\Practice\ThreeSum\bin\Debug\netcoreapp3.1\ThreeSum.deps.json
+C:\Practice\ThreeSum\bin\Debug\netcoreapp3.1\ThreeSum.runtimeconfig.json
+C:\Practice\ThreeSum\bin\Debug\netcoreapp3.1\ThreeSum.runtimeconfig.dev.json
+C:\Practice\ThreeSum\bin\Debug\netcoreapp3.1\ThreeSum.dll
+C:\Practice\ThreeSum\bin\Debug\netcoreapp3.1\ThreeSum.pdb
+C:\Practice\ThreeSum\obj\Debug\netcoreapp3.1\ThreeSum.csproj.AssemblyReference.cache
+C:\Practice\ThreeSum\obj\Debug\netcoreapp3.1\ThreeSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\ThreeSum\obj\Debug\netcoreapp3.1\ThreeSum.AssemblyInfoInputs.cache
+C:\Practice\ThreeSum\obj\Debug\netcoreapp3.1\ThreeSum.AssemblyInfo.cs
+C:\Practice\ThreeSum\obj\Debug\netcoreapp3.1\ThreeSum.csproj.CoreCompileInputs.cache
+C:\Practice\ThreeSum\obj\Debug\netcoreapp3.1\ThreeSum.dll
+C:\Practice\ThreeSum\obj\Debug\netcoreapp3.1\ThreeSum.pdb
+C:\Practice\ThreeSum\obj\Debug\netcoreapp3.1\ThreeSum.genruntimeconfig.cache
