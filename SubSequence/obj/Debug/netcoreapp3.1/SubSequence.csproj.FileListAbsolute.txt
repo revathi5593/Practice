@@ -1,0 +1,14 @@
+C:\Users\Revathi.Selvam\source\repos\SubSequence\bin\Debug\netcoreapp3.1\SubSequence.exe
+C:\Users\Revathi.Selvam\source\repos\SubSequence\bin\Debug\netcoreapp3.1\SubSequence.deps.json
+C:\Users\Revathi.Selvam\source\repos\SubSequence\bin\Debug\netcoreapp3.1\SubSequence.runtimeconfig.json
+C:\Users\Revathi.Selvam\source\repos\SubSequence\bin\Debug\netcoreapp3.1\SubSequence.runtimeconfig.dev.json
+C:\Users\Revathi.Selvam\source\repos\SubSequence\bin\Debug\netcoreapp3.1\SubSequence.dll
+C:\Users\Revathi.Selvam\source\repos\SubSequence\bin\Debug\netcoreapp3.1\SubSequence.pdb
+C:\Users\Revathi.Selvam\source\repos\SubSequence\obj\Debug\netcoreapp3.1\SubSequence.csproj.AssemblyReference.cache
+C:\Users\Revathi.Selvam\source\repos\SubSequence\obj\Debug\netcoreapp3.1\SubSequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Revathi.Selvam\source\repos\SubSequence\obj\Debug\netcoreapp3.1\SubSequence.AssemblyInfoInputs.cache
+C:\Users\Revathi.Selvam\source\repos\SubSequence\obj\Debug\netcoreapp3.1\SubSequence.AssemblyInfo.cs
+C:\Users\Revathi.Selvam\source\repos\SubSequence\obj\Debug\netcoreapp3.1\SubSequence.csproj.CoreCompileInputs.cache
+C:\Users\Revathi.Selvam\source\repos\SubSequence\obj\Debug\netcoreapp3.1\SubSequence.dll
+C:\Users\Revathi.Selvam\source\repos\SubSequence\obj\Debug\netcoreapp3.1\SubSequence.pdb
+C:\Users\Revathi.Selvam\source\repos\SubSequence\obj\Debug\netcoreapp3.1\SubSequence.genruntimeconfig.cache
