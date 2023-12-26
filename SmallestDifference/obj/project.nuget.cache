@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CfMNyrASuN2JJHSgi761K3+Z1xPbOJvmoe4xjvbblFiecOCI9R3FyICoYp2ASSdt5qA3lfLRAyTf+Wf43tL4EQ==",
+  "success": true,
+  "projectFilePath": "C:\\Practice\\SmallestDifference\\SmallestDifference.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Revathi.Selvam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

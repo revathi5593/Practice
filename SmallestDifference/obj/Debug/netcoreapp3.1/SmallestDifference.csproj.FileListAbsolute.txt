@@ -1,0 +1,14 @@
+C:\Practice\SmallestDifference\bin\Debug\netcoreapp3.1\SmallestDifference.exe
+C:\Practice\SmallestDifference\bin\Debug\netcoreapp3.1\SmallestDifference.deps.json
+C:\Practice\SmallestDifference\bin\Debug\netcoreapp3.1\SmallestDifference.runtimeconfig.json
+C:\Practice\SmallestDifference\bin\Debug\netcoreapp3.1\SmallestDifference.runtimeconfig.dev.json
+C:\Practice\SmallestDifference\bin\Debug\netcoreapp3.1\SmallestDifference.dll
+C:\Practice\SmallestDifference\bin\Debug\netcoreapp3.1\SmallestDifference.pdb
+C:\Practice\SmallestDifference\obj\Debug\netcoreapp3.1\SmallestDifference.csproj.AssemblyReference.cache
+C:\Practice\SmallestDifference\obj\Debug\netcoreapp3.1\SmallestDifference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\SmallestDifference\obj\Debug\netcoreapp3.1\SmallestDifference.AssemblyInfoInputs.cache
+C:\Practice\SmallestDifference\obj\Debug\netcoreapp3.1\SmallestDifference.AssemblyInfo.cs
+C:\Practice\SmallestDifference\obj\Debug\netcoreapp3.1\SmallestDifference.csproj.CoreCompileInputs.cache
+C:\Practice\SmallestDifference\obj\Debug\netcoreapp3.1\SmallestDifference.dll
+C:\Practice\SmallestDifference\obj\Debug\netcoreapp3.1\SmallestDifference.pdb
+C:\Practice\SmallestDifference\obj\Debug\netcoreapp3.1\SmallestDifference.genruntimeconfig.cache
