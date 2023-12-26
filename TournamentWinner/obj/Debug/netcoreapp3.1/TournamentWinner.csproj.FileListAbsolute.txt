@@ -1,0 +1,14 @@
+C:\Practice\TournamentWinner\bin\Debug\netcoreapp3.1\TournamentWinner.exe
+C:\Practice\TournamentWinner\bin\Debug\netcoreapp3.1\TournamentWinner.deps.json
+C:\Practice\TournamentWinner\bin\Debug\netcoreapp3.1\TournamentWinner.runtimeconfig.json
+C:\Practice\TournamentWinner\bin\Debug\netcoreapp3.1\TournamentWinner.runtimeconfig.dev.json
+C:\Practice\TournamentWinner\bin\Debug\netcoreapp3.1\TournamentWinner.dll
+C:\Practice\TournamentWinner\bin\Debug\netcoreapp3.1\TournamentWinner.pdb
+C:\Practice\TournamentWinner\obj\Debug\netcoreapp3.1\TournamentWinner.csproj.AssemblyReference.cache
+C:\Practice\TournamentWinner\obj\Debug\netcoreapp3.1\TournamentWinner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\TournamentWinner\obj\Debug\netcoreapp3.1\TournamentWinner.AssemblyInfoInputs.cache
+C:\Practice\TournamentWinner\obj\Debug\netcoreapp3.1\TournamentWinner.AssemblyInfo.cs
+C:\Practice\TournamentWinner\obj\Debug\netcoreapp3.1\TournamentWinner.csproj.CoreCompileInputs.cache
+C:\Practice\TournamentWinner\obj\Debug\netcoreapp3.1\TournamentWinner.dll
+C:\Practice\TournamentWinner\obj\Debug\netcoreapp3.1\TournamentWinner.pdb
+C:\Practice\TournamentWinner\obj\Debug\netcoreapp3.1\TournamentWinner.genruntimeconfig.cache
