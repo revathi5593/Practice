@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NqkrF2OTDDs+ifNXaaOsO460BxiYC7N4SBfCfLWXIF4L8+vQ9p4Ul05wl7smkEdKQamVePPaTeBvaDDAZe+inA==",
+  "success": true,
+  "projectFilePath": "C:\\Practice\\TwoSum\\TwoSum\\TwoSum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Revathi.Selvam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
