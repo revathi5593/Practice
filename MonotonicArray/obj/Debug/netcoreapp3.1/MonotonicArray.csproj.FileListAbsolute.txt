@@ -1,0 +1,14 @@
+C:\Practice\MonotonicArray\bin\Debug\netcoreapp3.1\MonotonicArray.exe
+C:\Practice\MonotonicArray\bin\Debug\netcoreapp3.1\MonotonicArray.deps.json
+C:\Practice\MonotonicArray\bin\Debug\netcoreapp3.1\MonotonicArray.runtimeconfig.json
+C:\Practice\MonotonicArray\bin\Debug\netcoreapp3.1\MonotonicArray.runtimeconfig.dev.json
+C:\Practice\MonotonicArray\bin\Debug\netcoreapp3.1\MonotonicArray.dll
+C:\Practice\MonotonicArray\bin\Debug\netcoreapp3.1\MonotonicArray.pdb
+C:\Practice\MonotonicArray\obj\Debug\netcoreapp3.1\MonotonicArray.csproj.AssemblyReference.cache
+C:\Practice\MonotonicArray\obj\Debug\netcoreapp3.1\MonotonicArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\MonotonicArray\obj\Debug\netcoreapp3.1\MonotonicArray.AssemblyInfoInputs.cache
+C:\Practice\MonotonicArray\obj\Debug\netcoreapp3.1\MonotonicArray.AssemblyInfo.cs
+C:\Practice\MonotonicArray\obj\Debug\netcoreapp3.1\MonotonicArray.csproj.CoreCompileInputs.cache
+C:\Practice\MonotonicArray\obj\Debug\netcoreapp3.1\MonotonicArray.dll
+C:\Practice\MonotonicArray\obj\Debug\netcoreapp3.1\MonotonicArray.pdb
+C:\Practice\MonotonicArray\obj\Debug\netcoreapp3.1\MonotonicArray.genruntimeconfig.cache
