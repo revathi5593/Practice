@@ -1,0 +1,14 @@
+C:\Practice\MoveElementToEnd\bin\Debug\netcoreapp3.1\MoveElementToEnd.exe
+C:\Practice\MoveElementToEnd\bin\Debug\netcoreapp3.1\MoveElementToEnd.deps.json
+C:\Practice\MoveElementToEnd\bin\Debug\netcoreapp3.1\MoveElementToEnd.runtimeconfig.json
+C:\Practice\MoveElementToEnd\bin\Debug\netcoreapp3.1\MoveElementToEnd.runtimeconfig.dev.json
+C:\Practice\MoveElementToEnd\bin\Debug\netcoreapp3.1\MoveElementToEnd.dll
+C:\Practice\MoveElementToEnd\bin\Debug\netcoreapp3.1\MoveElementToEnd.pdb
+C:\Practice\MoveElementToEnd\obj\Debug\netcoreapp3.1\MoveElementToEnd.csproj.AssemblyReference.cache
+C:\Practice\MoveElementToEnd\obj\Debug\netcoreapp3.1\MoveElementToEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\MoveElementToEnd\obj\Debug\netcoreapp3.1\MoveElementToEnd.AssemblyInfoInputs.cache
+C:\Practice\MoveElementToEnd\obj\Debug\netcoreapp3.1\MoveElementToEnd.AssemblyInfo.cs
+C:\Practice\MoveElementToEnd\obj\Debug\netcoreapp3.1\MoveElementToEnd.csproj.CoreCompileInputs.cache
+C:\Practice\MoveElementToEnd\obj\Debug\netcoreapp3.1\MoveElementToEnd.dll
+C:\Practice\MoveElementToEnd\obj\Debug\netcoreapp3.1\MoveElementToEnd.pdb
+C:\Practice\MoveElementToEnd\obj\Debug\netcoreapp3.1\MoveElementToEnd.genruntimeconfig.cache

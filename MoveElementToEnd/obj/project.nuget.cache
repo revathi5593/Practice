@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7v8ujzynF4FcDyfM0hsqaa8oTqnndUSJMi6hTs9LXc5DAxR2fA0L86UN+bmW7apybjwkyI3tMxf/qNzLj6ckYw==",
+  "success": true,
+  "projectFilePath": "C:\\Practice\\MoveElementToEnd\\MoveElementToEnd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Revathi.Selvam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
