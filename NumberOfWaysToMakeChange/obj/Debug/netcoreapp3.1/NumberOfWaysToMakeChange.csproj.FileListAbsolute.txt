@@ -1,0 +1,14 @@
+C:\Practice\NumberOfWaysToMakeChange\bin\Debug\netcoreapp3.1\NumberOfWaysToMakeChange.exe
+C:\Practice\NumberOfWaysToMakeChange\bin\Debug\netcoreapp3.1\NumberOfWaysToMakeChange.deps.json
+C:\Practice\NumberOfWaysToMakeChange\bin\Debug\netcoreapp3.1\NumberOfWaysToMakeChange.runtimeconfig.json
+C:\Practice\NumberOfWaysToMakeChange\bin\Debug\netcoreapp3.1\NumberOfWaysToMakeChange.runtimeconfig.dev.json
+C:\Practice\NumberOfWaysToMakeChange\bin\Debug\netcoreapp3.1\NumberOfWaysToMakeChange.dll
+C:\Practice\NumberOfWaysToMakeChange\bin\Debug\netcoreapp3.1\NumberOfWaysToMakeChange.pdb
+C:\Practice\NumberOfWaysToMakeChange\obj\Debug\netcoreapp3.1\NumberOfWaysToMakeChange.csproj.AssemblyReference.cache
+C:\Practice\NumberOfWaysToMakeChange\obj\Debug\netcoreapp3.1\NumberOfWaysToMakeChange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\NumberOfWaysToMakeChange\obj\Debug\netcoreapp3.1\NumberOfWaysToMakeChange.AssemblyInfoInputs.cache
+C:\Practice\NumberOfWaysToMakeChange\obj\Debug\netcoreapp3.1\NumberOfWaysToMakeChange.AssemblyInfo.cs
+C:\Practice\NumberOfWaysToMakeChange\obj\Debug\netcoreapp3.1\NumberOfWaysToMakeChange.csproj.CoreCompileInputs.cache
+C:\Practice\NumberOfWaysToMakeChange\obj\Debug\netcoreapp3.1\NumberOfWaysToMakeChange.dll
+C:\Practice\NumberOfWaysToMakeChange\obj\Debug\netcoreapp3.1\NumberOfWaysToMakeChange.pdb
+C:\Practice\NumberOfWaysToMakeChange\obj\Debug\netcoreapp3.1\NumberOfWaysToMakeChange.genruntimeconfig.cache
