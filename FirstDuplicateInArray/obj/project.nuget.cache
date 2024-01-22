@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2sZ4iukF5qzd75mzOyvJuI0BGGhcSf15MmRsr0BrkLC92MntI+LRXtKDX3jcmNkasLX8eeQJ/d55fXlEAHytzg==",
+  "success": true,
+  "projectFilePath": "C:\\Practice\\FirstDuplicateInArray\\FirstDuplicateInArray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Revathi.Selvam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Practice\LongestPeak\bin\Debug\netcoreapp3.1\LongestPeak.exe
+C:\Practice\LongestPeak\bin\Debug\netcoreapp3.1\LongestPeak.deps.json
+C:\Practice\LongestPeak\bin\Debug\netcoreapp3.1\LongestPeak.runtimeconfig.json
+C:\Practice\LongestPeak\bin\Debug\netcoreapp3.1\LongestPeak.runtimeconfig.dev.json
+C:\Practice\LongestPeak\bin\Debug\netcoreapp3.1\LongestPeak.dll
+C:\Practice\LongestPeak\bin\Debug\netcoreapp3.1\LongestPeak.pdb
+C:\Practice\LongestPeak\obj\Debug\netcoreapp3.1\LongestPeak.csproj.AssemblyReference.cache
+C:\Practice\LongestPeak\obj\Debug\netcoreapp3.1\LongestPeak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\LongestPeak\obj\Debug\netcoreapp3.1\LongestPeak.AssemblyInfoInputs.cache
+C:\Practice\LongestPeak\obj\Debug\netcoreapp3.1\LongestPeak.AssemblyInfo.cs
+C:\Practice\LongestPeak\obj\Debug\netcoreapp3.1\LongestPeak.csproj.CoreCompileInputs.cache
+C:\Practice\LongestPeak\obj\Debug\netcoreapp3.1\LongestPeak.dll
+C:\Practice\LongestPeak\obj\Debug\netcoreapp3.1\LongestPeak.pdb
+C:\Practice\LongestPeak\obj\Debug\netcoreapp3.1\LongestPeak.genruntimeconfig.cache

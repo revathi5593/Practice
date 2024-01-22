@@ -1,0 +1,13 @@
+C:\Practice\FirstDuplicateInArray\bin\Debug\netcoreapp3.1\FirstDuplicateInArray.exe
+C:\Practice\FirstDuplicateInArray\bin\Debug\netcoreapp3.1\FirstDuplicateInArray.deps.json
+C:\Practice\FirstDuplicateInArray\bin\Debug\netcoreapp3.1\FirstDuplicateInArray.runtimeconfig.json
+C:\Practice\FirstDuplicateInArray\bin\Debug\netcoreapp3.1\FirstDuplicateInArray.runtimeconfig.dev.json
+C:\Practice\FirstDuplicateInArray\bin\Debug\netcoreapp3.1\FirstDuplicateInArray.dll
+C:\Practice\FirstDuplicateInArray\bin\Debug\netcoreapp3.1\FirstDuplicateInArray.pdb
+C:\Practice\FirstDuplicateInArray\obj\Debug\netcoreapp3.1\FirstDuplicateInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\FirstDuplicateInArray\obj\Debug\netcoreapp3.1\FirstDuplicateInArray.AssemblyInfoInputs.cache
+C:\Practice\FirstDuplicateInArray\obj\Debug\netcoreapp3.1\FirstDuplicateInArray.AssemblyInfo.cs
+C:\Practice\FirstDuplicateInArray\obj\Debug\netcoreapp3.1\FirstDuplicateInArray.csproj.CoreCompileInputs.cache
+C:\Practice\FirstDuplicateInArray\obj\Debug\netcoreapp3.1\FirstDuplicateInArray.dll
+C:\Practice\FirstDuplicateInArray\obj\Debug\netcoreapp3.1\FirstDuplicateInArray.pdb
+C:\Practice\FirstDuplicateInArray\obj\Debug\netcoreapp3.1\FirstDuplicateInArray.genruntimeconfig.cache

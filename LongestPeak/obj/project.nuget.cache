@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BV2dBColZ7dW0ZQ+kGwqj+xDU0K8rKSh3qZhV0p+XIzZkVimvggvQMiuJXcoJrNJFtqz15eb8PtztMfQY7Rk1A==",
+  "success": true,
+  "projectFilePath": "C:\\Practice\\LongestPeak\\LongestPeak.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Revathi.Selvam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
