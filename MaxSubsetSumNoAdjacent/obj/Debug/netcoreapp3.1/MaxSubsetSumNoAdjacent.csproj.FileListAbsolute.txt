@@ -1,0 +1,14 @@
+C:\Practice\MaxSubsetSumNoAdjacent\bin\Debug\netcoreapp3.1\MaxSubsetSumNoAdjacent.exe
+C:\Practice\MaxSubsetSumNoAdjacent\bin\Debug\netcoreapp3.1\MaxSubsetSumNoAdjacent.deps.json
+C:\Practice\MaxSubsetSumNoAdjacent\bin\Debug\netcoreapp3.1\MaxSubsetSumNoAdjacent.runtimeconfig.json
+C:\Practice\MaxSubsetSumNoAdjacent\bin\Debug\netcoreapp3.1\MaxSubsetSumNoAdjacent.runtimeconfig.dev.json
+C:\Practice\MaxSubsetSumNoAdjacent\bin\Debug\netcoreapp3.1\MaxSubsetSumNoAdjacent.dll
+C:\Practice\MaxSubsetSumNoAdjacent\bin\Debug\netcoreapp3.1\MaxSubsetSumNoAdjacent.pdb
+C:\Practice\MaxSubsetSumNoAdjacent\obj\Debug\netcoreapp3.1\MaxSubsetSumNoAdjacent.csproj.AssemblyReference.cache
+C:\Practice\MaxSubsetSumNoAdjacent\obj\Debug\netcoreapp3.1\MaxSubsetSumNoAdjacent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\MaxSubsetSumNoAdjacent\obj\Debug\netcoreapp3.1\MaxSubsetSumNoAdjacent.AssemblyInfoInputs.cache
+C:\Practice\MaxSubsetSumNoAdjacent\obj\Debug\netcoreapp3.1\MaxSubsetSumNoAdjacent.AssemblyInfo.cs
+C:\Practice\MaxSubsetSumNoAdjacent\obj\Debug\netcoreapp3.1\MaxSubsetSumNoAdjacent.csproj.CoreCompileInputs.cache
+C:\Practice\MaxSubsetSumNoAdjacent\obj\Debug\netcoreapp3.1\MaxSubsetSumNoAdjacent.dll
+C:\Practice\MaxSubsetSumNoAdjacent\obj\Debug\netcoreapp3.1\MaxSubsetSumNoAdjacent.pdb
+C:\Practice\MaxSubsetSumNoAdjacent\obj\Debug\netcoreapp3.1\MaxSubsetSumNoAdjacent.genruntimeconfig.cache
