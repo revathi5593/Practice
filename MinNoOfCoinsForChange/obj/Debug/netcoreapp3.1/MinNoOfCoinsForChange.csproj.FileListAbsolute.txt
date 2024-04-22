@@ -1,0 +1,14 @@
+C:\Practice\MinNoOfCoinsForChange\bin\Debug\netcoreapp3.1\MinNoOfCoinsForChange.exe
+C:\Practice\MinNoOfCoinsForChange\bin\Debug\netcoreapp3.1\MinNoOfCoinsForChange.deps.json
+C:\Practice\MinNoOfCoinsForChange\bin\Debug\netcoreapp3.1\MinNoOfCoinsForChange.runtimeconfig.json
+C:\Practice\MinNoOfCoinsForChange\bin\Debug\netcoreapp3.1\MinNoOfCoinsForChange.runtimeconfig.dev.json
+C:\Practice\MinNoOfCoinsForChange\bin\Debug\netcoreapp3.1\MinNoOfCoinsForChange.dll
+C:\Practice\MinNoOfCoinsForChange\bin\Debug\netcoreapp3.1\MinNoOfCoinsForChange.pdb
+C:\Practice\MinNoOfCoinsForChange\obj\Debug\netcoreapp3.1\MinNoOfCoinsForChange.csproj.AssemblyReference.cache
+C:\Practice\MinNoOfCoinsForChange\obj\Debug\netcoreapp3.1\MinNoOfCoinsForChange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\MinNoOfCoinsForChange\obj\Debug\netcoreapp3.1\MinNoOfCoinsForChange.AssemblyInfoInputs.cache
+C:\Practice\MinNoOfCoinsForChange\obj\Debug\netcoreapp3.1\MinNoOfCoinsForChange.AssemblyInfo.cs
+C:\Practice\MinNoOfCoinsForChange\obj\Debug\netcoreapp3.1\MinNoOfCoinsForChange.csproj.CoreCompileInputs.cache
+C:\Practice\MinNoOfCoinsForChange\obj\Debug\netcoreapp3.1\MinNoOfCoinsForChange.dll
+C:\Practice\MinNoOfCoinsForChange\obj\Debug\netcoreapp3.1\MinNoOfCoinsForChange.pdb
+C:\Practice\MinNoOfCoinsForChange\obj\Debug\netcoreapp3.1\MinNoOfCoinsForChange.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hz/ZP+ewUMachVKNxrxVz66nrT46b1wJtbOiNWVz/ATDPDG16bVopJPx/qQ4stHKPynRBAX9qOX3Fr5ivC5vpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Practice\\MinNoOfCoinsForChange\\MinNoOfCoinsForChange.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Revathi.Selvam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
