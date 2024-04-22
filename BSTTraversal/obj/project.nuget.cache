@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R4uFPKyA0oQqLmthuzo3mKi7MlcJimZRxO4N9X9oTAgfrui96+9Mvxy48kY4/HtvBXWpBG7U9I6tx2opz8j7QA==",
+  "success": true,
+  "projectFilePath": "C:\\Practice\\BSTTraversal\\BSTTraversal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Revathi.Selvam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

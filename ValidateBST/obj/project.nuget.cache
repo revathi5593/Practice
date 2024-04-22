@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nDq3P/55593NoBdu1/lhZTtnrHbE6EEwnSbK1/ff4W8l0V7eR8dZM6MpwvjEv49LEoXjApYb9TrEp8ON0nuEuA==",
+  "success": true,
+  "projectFilePath": "C:\\Practice\\ValidateBST\\ValidateBST.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Revathi.Selvam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
