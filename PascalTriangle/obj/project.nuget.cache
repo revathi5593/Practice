@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ds2sAVliLHm7LizLbUoMwfGx//4nw5+4z0zd4TOBvzbxqgNxyrLpxWyIHTupcsihE6XzwxlNotokHjXbgbp3qg==",
+  "success": true,
+  "projectFilePath": "C:\\Practice\\PascalTriangle\\PascalTriangle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Revathi.Selvam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
